@@ -46,3 +46,12 @@ button:hover{
 button:active{
     background-color: rgb(192, 54, 54);
 }
+.Operator-btn{
+    background-color: rgb(75, 75, 0) ;
+}
+.Operator-btn:hover{
+        background-color: rgb(126, 126, 1);
+}
+.Operator-btn:active{
+    background-color: rgb(208, 255, 1);
+}
